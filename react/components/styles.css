@@ -1,0 +1,8 @@
+.departmentGroup__container {
+  display    : flex;
+  align-items: center;
+}
+
+.departmentGroup__element {
+  color: #565656;
+}
